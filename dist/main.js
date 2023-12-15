@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log("working!"),new class{constructor(t){this.input=t}test(){console.log(this.input)}}("testing testing testing").test()})();
